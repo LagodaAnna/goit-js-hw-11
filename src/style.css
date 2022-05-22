@@ -12,12 +12,9 @@ body{
    
 }
 
-.container{
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
 .gallery-container{
+    padding-left: 15px;
+        padding-right: 15px;
   display: flex;
   justify-content: center;
 }
